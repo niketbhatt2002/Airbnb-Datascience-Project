@@ -1,0 +1,34 @@
+🧠 SECTION 6: AI TOOLS & LLMs – OPTION A (Prompt Engineering)
+
+🎯 Objective:
+Use an AI tool like ChatGPT to assist with one of the assignment sections.
+
+---
+
+📌 Tool Used: ChatGPT
+
+🔹 Prompt Used:
+"Write SQL queries for the Chinook database to:
+  1. List the top 5 customers by total purchase amount
+  2. Find the most popular genre
+  3. Get employees who are managers with their subordinates
+  4. Find each artist’s most sold album
+  5. Get monthly sales trends in 2013"
+
+---
+
+🧠 ChatGPT Response:
+ChatGPT provided all 5 queries with correct JOINs and logical grouping.
+Each query used relevant tables (Invoice, InvoiceLine, Track, etc.) and was optimized for readability and performance.
+
+Example (Query 1):
+```sql
+SELECT 
+    c.CustomerId, 
+    c.FirstName || ' ' || c.LastName AS CustomerName, 
+    SUM(i.Total) AS TotalSpent
+FROM Invoice i
+JOIN Customer c ON i.CustomerId = c.CustomerId
+GROUP BY c.CustomerId
+ORDER BY TotalSpent DESC
+LIMIT 5;
