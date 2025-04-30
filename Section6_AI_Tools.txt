@@ -1,5 +1,5 @@
 🧠 SECTION 6: AI TOOLS & LLMs – OPTION A (Prompt Engineering)
-
+The Objective is to learn new things as well with Prompt Engineering.
 🎯 Objective:
 Use an AI tool like ChatGPT to assist with one of the assignment sections.
 
