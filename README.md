@@ -5,7 +5,7 @@
 
 - Dataset: [Student Performance Dataset](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
 - Performed data cleaning, EDA using `matplotlib` and `seaborn`
-- Created a binary `pass`/`fail` target column
+- Created a binary `pass`/`fail` target column for it
 - Trained and evaluated **Logistic Regression** and **Random Forest**
 - Evaluated using Accuracy, Confusion Matrix, and F1-score
 
