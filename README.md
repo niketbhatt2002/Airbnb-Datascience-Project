@@ -9,7 +9,7 @@
 - Trained and evaluated **Logistic Regression** and **Random Forest**
 - Evaluated using Accuracy, Confusion Matrix, and F1-score
 
-📎 See: `Student_Performance_Project.ipynb`
+📎 See my file: `Student_Performance_Project.ipynb`
 
 ---
 
