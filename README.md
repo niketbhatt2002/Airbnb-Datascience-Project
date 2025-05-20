@@ -38,7 +38,7 @@
 
 🔗 **Tableau Public Link**: [CLICK HERE](https://public.tableau.com/authoring/NYCAirbnbDataset/Dashboard1#1 )
 
-📎 See: `Tableau_Dashboard_Link.txt`
+📎 See My Tableau: `Tableau_Dashboard_Link.txt`
 
 ---
 
