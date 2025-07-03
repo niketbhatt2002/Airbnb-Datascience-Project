@@ -1,7 +1,7 @@
 
 ---
 
-## ✅ Section 1: Python + Machine Learning.
+## ✅ Section 1: Python + Machine Learning
 
 - Dataset: [Student Performance Dataset](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams).
 - Performed data cleaning, EDA using `matplotlib` and `seaborn".
